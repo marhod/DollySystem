@@ -1,7 +1,7 @@
 # DIY 3D Printed Motorized Bluetooth Camera Dolly for under $100
 Want a motorised camera dolly but don't want to pay big bucks or resort to a slider? In this episode Mark designs and shows you how to make your own DIY 3D Printed Motorized Bluetooth Camera Dolly that you can make yourself, and control with your phone for epic dolly shots and time lapses.
 
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/d-RhV_yXyQ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=d-RhV_yXyQ8)
+[![DIY 3D Printed Motorized Bluetooth Camera Dolly for under $100](http://i3.ytimg.com/vi/d-RhV_yXyQ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=d-RhV_yXyQ8)
 
 Download the print files at https://gum.co/odQSw
 
